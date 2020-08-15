@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was done alongside [Mosh's React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0&list=PLTjRvDozrdlw5En5v2xrBr_EqieHf7hGs&index=2). Counter_app displays the navBar that shows the number of unique items, as well as counters for different individual items where users can increment the count or delete them completely.
 
 ## Available Scripts
 
